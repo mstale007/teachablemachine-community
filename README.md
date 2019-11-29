@@ -20,6 +20,24 @@ This repository contains two components of [Teachable Machine](https://teachable
 
 2. **A [snippets](/snippets) section** that contains markdown snippets that are being displayed inside the export panel in [Teachable Machine](https://teachablemachine.withgoogle.com/). These snippets contain code and instructions on how to use the exported models from Teachable Machine in languages like Javascript, Java and Python.
 
+### Teachable Machine Mobile
+Mobile version of Teachable machine, 
+
+You can download the app from [here](https://drive.google.com/file/d/17_ZnhH7BS9U8lktf9kpzR4e8hwB5_qp3/view?usp=sharing)
+
+Train your model on Teacheble Machine web app. Select Export Model and chose Tensorflow Lite option and then Floating Point model and download those. This will download a zip file containing .apk and labels.txt. Extract it and send both files to your mobile.
+
+Next follow these steps:
+
+#### 1) Install and Start the App
+![1](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/a.jpg)
+#### 2) Browse and Select the downloaded tflite and labels.txt file
+![2](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/b.png)
+#### 3) Make sure you have selected both the files and then press start
+![3](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/c.png)
+#### 4) Have Fun...!
+![4](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/d.png)
+
 ### How can I send feedback?
 
 You have a few options:
