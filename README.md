@@ -23,7 +23,7 @@ This repository contains two components of [Teachable Machine](https://teachable
 ### Teachable Machine Mobile
 Mobile version of Teachable machine, 
 
-You can download the app from [here](https://drive.google.com/file/d/17_ZnhH7BS9U8lktf9kpzR4e8hwB5_qp3/view?usp=sharing)
+[You can download the app from here](https://drive.google.com/file/d/17_ZnhH7BS9U8lktf9kpzR4e8hwB5_qp3/view?usp=sharing)
 
 Train your model on Teacheble Machine web app. Select Export Model and chose Tensorflow Lite option and then Floating Point model and download those. This will download a zip file containing .apk and labels.txt. Extract it and send both files to your mobile.
 
