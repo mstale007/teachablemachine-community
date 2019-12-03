@@ -29,14 +29,9 @@ Train your model on Teacheble Machine web app. Select Export Model and chose Ten
 
 Next follow these steps:
 
-#### 1) Install and Start the App
-![1](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/a.jpg)
-#### 2) Browse and Select the downloaded tflite and labels.txt file
-![2](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/b.png)
-#### 3) Make sure you have selected both the files and then press start
-![3](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/c.png)
-#### 4) Have Fun...!
-![4](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/d.png)
+| Install and Start the App | Browse and Select | Press start tflite | Have Fun...!
+| --- | --- | --- | --- |
+|![1](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/a.jpg)|![2](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/b.png)|![3](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/c.png)|![4](https://github.com/mstale007/Teachable_Machine_Mobile/blob/master/Images/d.png)|
 
 ### How can I send feedback?
 
