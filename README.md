@@ -25,7 +25,10 @@ Mobile version of Teachable machine,
 
 [You can download the app from here](https://drive.google.com/file/d/17_ZnhH7BS9U8lktf9kpzR4e8hwB5_qp3/view?usp=sharing)
 
-Train your model on Teacheble Machine web app. Select Export Model and chose Tensorflow Lite option and then Floating Point model and download those. This will download a zip file containing .apk and labels.txt. Extract it and send both files to your mobile.
+Before we begin:
+1) Train your model on [Teachable Machine web app](https://teachablemachine.withgoogle.com/). 
+2) Select Export Model and chose Tensorflow Lite option and then Floating Point model and download those. 
+3) This will download a zip file containing .apk and labels.txt. Extract it and send both files to your mobile.
 
 Next follow these steps:
 
